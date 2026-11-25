@@ -51,6 +51,22 @@ nav a {
   font-size: 16px;
 }
 
+/* Social Media Irons */
+.social-icons {
+    display: flex;
+    gap: 20px;
+}
+
+.social-icons a {
+    color: #333;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #999;
+}
+
 /* Headings */
 h1 {
   font-family: "Kalam", cursive;
